@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi I'm Paulo Rene
 
-<!--
-**PauloReneBraun/Paulorenebraun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior developer
 
-Here are some ideas to get you started:
+- 🤔 currently i want to learn more about programming to become a good developer
+- 😄 Pronouns: him/his
+- ⚡ Curious fact: I've been to a platform game programming camp, I love playing video games and would like to develop some one day👾🎮
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div>
+  <a href="https://github.com/Paulorenebraun">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulorenebraun&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulorenebraun&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  </div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="right" alt="Paulo-Smile" src="https://media.discordapp.net/attachments/866149737900146708/876850316811862026/SPOILER_picasion.com_7ada69ebed25d6629c1c96fc6233640f.gif">
+</div>
+  
+   ##
+  
