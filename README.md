@@ -3,6 +3,7 @@
 I'm a junior developer
 
 - 🤔 currently i want to learn more about programming to become a good developer
+- 🚀 I'm a student of the Ignite bootcamp from Rocketseat.
 - 😄 Pronouns: him/his
 - ⚡ Curious fact: I've been to a platform game programming camp, I love playing video games and would like to develop some one day👾🎮
 
